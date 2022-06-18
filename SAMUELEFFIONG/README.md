@@ -1,0 +1,3 @@
+createsuperuser :SAMUELEFFIONG
+createsuperuser_email: samueleffiongjacobgmail.com
+createsuperuser_password: 1234567890
